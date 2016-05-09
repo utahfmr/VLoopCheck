@@ -1,6 +1,6 @@
 {
   "name": "VLoopCheck",
-  "tagline": "Lightweight Error Checkers for Vector Loops",
+  "tagline": "Lightweight Error Checkers for protecting Vector Loops",
   "body": "## Introduction\r\nVLoopCheck perform compiler-level error detector synthesis to protect vector loops by mining the compiler-level invariants by analyzing the code-generation patterns. Our work is based on the publicly available, state-of-the-art [ISPC](https://ispc.github.io/) compiler. \r\n\r\n## Publication\r\nPlease refer to our [paper](http://www.cs.utah.edu/~vcsharma/pubs/dpdns2016-shrg.pdf) published at DPDNS'16 for further details. \r\n\r\n## Citation Information\r\n```\r\n@inproceedings{dpdns16vulfi,\r\n  author = {Vishal Chandra Sharma, Ganesh Gopalakrishnan, Sriram Krishnamoorthy},\r\n  title = {Towards Reseiliency Evaluation of Vector Programs},\r\n  booktitle = {21st IEEE Workshop on Dependable Parallel, Distributed and Network-Centric Systems (DPDNS)},\r\n  year = {2016},\r\n}\r\n```\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
